@@ -32,3 +32,5 @@ int wow = GetChoice(["dog1", "dog2"]);
 
 Console.WriteLine(valja[wow]);
 Console.ReadLine();
+
+// wow
